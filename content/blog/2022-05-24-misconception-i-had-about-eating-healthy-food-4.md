@@ -3,7 +3,7 @@ layout: blog
 title: Misconception I had about eating healthy food
 date: 2022-05-24T15:51:33.121Z
 ---
-> **Note to readers:** Things I've written here is just my perspective, so it's may or may not be right :) If you have any thoughts or feedback, you can share it with me through email or Twitter.
+> **Note to readers:** Things I've written here is just my perspective, so it's may or may not be right. If you have any thoughts or feedback, you can share it with me through email or Twitter.
 
 I used to think that there was no point in eating healthy just to live little bit longer. Instead I could eat whatever I liked and live a little bit less. 
 
