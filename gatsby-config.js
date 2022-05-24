@@ -3,12 +3,12 @@ module.exports = {
     title: `Shankar Saravanan`,
     author: {
       name: `Shankar.`,
-      summary: `I'm Currently working as a Digital Product Designer.`,
+      summary: `I'm a digital product designer. I'm sharing my thoughts and learnings through this blog. I'm also reasonably active on`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `imshankar_18`,
     },
   },
   plugins: [
