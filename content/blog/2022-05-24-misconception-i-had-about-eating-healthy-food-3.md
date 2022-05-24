@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Misconception I had about eating healthy food
+title: Hacking your career to retire early
 date: 2022-05-24T15:51:21.857Z
 ---
 > **Note to readers:** This is just my perspective. It may or may not be right, so please keep this in mind while reading. If you have any thoughts or feedback, you can share it with me through email or Twitter.
