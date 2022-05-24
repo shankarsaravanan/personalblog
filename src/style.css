@@ -175,12 +175,13 @@ ol {
   margin-bottom: var(--spacing-8);
   list-style-position: outside;
   list-style-image: none;
+  margin-top: -20px;
 }
 
 ul li,
 ol li {
   padding-left: var(--spacing-0);
-  margin-bottom: calc(var(--spacing-8) / 2);
+  margin-bottom: 46px;
 }
 
 li > p {
@@ -271,7 +272,7 @@ a:focus {
 .post-list-item h2 {
   font-size: var(--fontSize-3);
   color: var(--color-primary);
-  margin-bottom: var(--spacing-2);
+  margin-bottom: var(--spacing-1);
   margin-top: var(--spacing-0);
 }
 
@@ -289,6 +290,7 @@ a:focus {
 .bio {
   display: flex;
   margin-bottom: var(--spacing-16);
+  margin-top: -20px;
 }
 
 .bio p {
