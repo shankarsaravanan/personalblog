@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Shankar Saravanan`,
     author: {
-      // name: ``,
-      summary: `Hi, I'm Shankar. I'm Currently working as a Digital Product Designer.`,
+      name: `Shankar.`,
+      summary: `I'm Currently working as a Digital Product Designer.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
